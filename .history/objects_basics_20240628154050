@@ -1,0 +1,31 @@
+//obj denoted by {}, key-value pair
+//compare array n objects there r diff and similarities
+let obj={
+    "Name": "John",
+    "Age": 30,
+    "City": "New York"
+}
+
+let obj1= {
+    "num1" : 10,
+    "num2" : 20,
+    "num3" : 30
+}
+console.log(obj, obj1)
+//how to access any key
+//2 ways - obj.key syntax
+console.log(obj.Age)
+//obj["key"] syntax
+console.log(obj1["num1"])
+
+
+//how to update any key
+obj.Age = 50
+console.log(obj.Age)
+//how to delete any key
+delete obj.Age
+console.log(obj)
+
+//add a new key
+//same like updating, it key exists it is updated if not then new key is added
+obj.Name = 

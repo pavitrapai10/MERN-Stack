@@ -1,0 +1,1 @@
+//passing function in function as parameter is called callback

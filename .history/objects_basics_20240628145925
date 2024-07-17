@@ -1,0 +1,7 @@
+//obj denoted by {}
+let obj={
+    "Name": "John",
+    "Age": 30,
+    
+
+}

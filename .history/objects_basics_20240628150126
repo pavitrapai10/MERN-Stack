@@ -1,0 +1,13 @@
+//obj denoted by {}, key-value pair
+let obj={
+    "Name": "John",
+    "Age": 30,
+    "City": "New York"
+}
+
+let obj1= {
+    "num1" : 10,
+    "num2" : 20,
+    "num3" : 30
+}
+console.log(obj, obj1)

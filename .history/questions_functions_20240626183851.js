@@ -1,0 +1,1 @@
+//find ncr, take n and 
